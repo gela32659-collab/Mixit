@@ -1,4 +1,7 @@
+# -*- coding: utf-8 -*-
 import streamlit as st
+from groq import Groq
+# ... დანარჩენი კოდი იგივე დარჩესimport streamlit as st
 from groq import Groq
 
 st.set_page_config(page_title="Mixit - AI მზარეული", page_icon="🍳")
